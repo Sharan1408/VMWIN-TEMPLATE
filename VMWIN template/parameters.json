@@ -65,13 +65,13 @@
             "value": "Detach"
         },
         "virtualMachineName": {
-            "value": "VMWin"
+            "value": "RamWin"
         },
         "virtualMachineName1": {
-            "value": "VMWin"
+            "value": "RamWin"
         },
         "virtualMachineComputerName1": {
-            "value": "VMWin"
+            "value": "RamWin"
         },
         "virtualMachineRG": {
             "value": "VMWin_group"
